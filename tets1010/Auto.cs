@@ -18,6 +18,7 @@ namespace tets1010
             {
                 //error
                 //Console.WriteLine("paliva je vic nez nadrze takze smula");
+                LitryPaliva = 0;
             }
             else
             {
@@ -67,7 +68,7 @@ namespace tets1010
                 }
                 else
                 {
-                    LitryPaliva = LitryPaliva + value;
+                    LitryPaliva += value;
                 }
             }
         }
