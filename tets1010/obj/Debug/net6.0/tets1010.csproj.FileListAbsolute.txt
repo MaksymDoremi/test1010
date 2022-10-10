@@ -1,0 +1,15 @@
+M:\PV\tets1010\tets1010\bin\Debug\net6.0\tets1010.exe
+M:\PV\tets1010\tets1010\bin\Debug\net6.0\tets1010.deps.json
+M:\PV\tets1010\tets1010\bin\Debug\net6.0\tets1010.runtimeconfig.json
+M:\PV\tets1010\tets1010\bin\Debug\net6.0\tets1010.dll
+M:\PV\tets1010\tets1010\bin\Debug\net6.0\tets1010.pdb
+M:\PV\tets1010\tets1010\obj\Debug\net6.0\tets1010.csproj.AssemblyReference.cache
+M:\PV\tets1010\tets1010\obj\Debug\net6.0\tets1010.GeneratedMSBuildEditorConfig.editorconfig
+M:\PV\tets1010\tets1010\obj\Debug\net6.0\tets1010.AssemblyInfoInputs.cache
+M:\PV\tets1010\tets1010\obj\Debug\net6.0\tets1010.AssemblyInfo.cs
+M:\PV\tets1010\tets1010\obj\Debug\net6.0\tets1010.csproj.CoreCompileInputs.cache
+M:\PV\tets1010\tets1010\obj\Debug\net6.0\tets1010.dll
+M:\PV\tets1010\tets1010\obj\Debug\net6.0\refint\tets1010.dll
+M:\PV\tets1010\tets1010\obj\Debug\net6.0\tets1010.pdb
+M:\PV\tets1010\tets1010\obj\Debug\net6.0\tets1010.genruntimeconfig.cache
+M:\PV\tets1010\tets1010\obj\Debug\net6.0\ref\tets1010.dll
